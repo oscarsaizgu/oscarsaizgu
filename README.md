@@ -43,7 +43,7 @@ Repository: https://github.com/oscarsaizgu/CXCR4-ligand-optimization
 ## Publications
 Navarro D., González A., Saiz O., Odriozola A. (2021).  
 *Sample collection and stabilization and DNA/RNA extraction from swab samples for microbiome or metagenome analyses.*  
-**BioTechniques**. [https://doi.org/10.2144/btn-2021-0082](https://doi.org/10.2144/btn-2021-0082)
+**BioTechniques**. [https://doi.org/10.2144/btn-2021-0082](https://doi.org/10.2144/btn-2021-1000ap)
 
 ---
 
