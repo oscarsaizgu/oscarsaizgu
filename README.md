@@ -4,7 +4,7 @@
 
 Madrid, Spain  
 oscarsaizgu@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/oscar-saiz/) | [Full CV (PDF)](CV_OscarSaiz.pdf)
+[LinkedIn](https://www.linkedin.com/in/oscar-saiz/) | [Full CV (PDF)](CV/CV_OscarSaiz.pdf)
 
 ---
 
@@ -51,7 +51,7 @@ Navarro D., González A., Saiz O., Odriozola A. (2021).
 
 oscarsaizgu@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/oscar-saiz/)  
-[Full CV (PDF)](CV_OscarSaiz.pdf)
+[Full CV (PDF)](CV/CV_OscarSaiz.pdf)
 
 ---
 ****
