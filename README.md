@@ -54,4 +54,13 @@ oscarsaizgu@gmail.com
 [Full CV (PDF)](CV/CV_OscarSaiz.pdf)
 
 ---
+## GitHub Stats
+
+![Oscar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oscarsaizgu&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarsaizgu&layout=compact&theme=tokyonight)
+
+## GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=oscarsaizgu)](https://git.io/streak-stats)
+
 ****
